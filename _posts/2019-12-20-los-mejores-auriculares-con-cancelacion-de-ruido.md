@@ -1,9 +1,9 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: Los mejores auriculares con cancelación de ruido
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Si te gusta viajar, utilizas el transporte público, trabajas en una oficina, o simplemente quieres escuchar música sin interrupciones, el ruido a tu alrededor puede suponer la diferencia entre disfrutar del momento o hacerlo inaguantable.
+  Los auriculares con cancelación de ruido pueden hacer que escuches mejor tú música, o simplemente hacer del mundo un lugar más silencioso. A diciembre del 2019, los mejores auriculares alrededor del oído - over-ear - son sin duda los 
+  Bose Noise Cancelling Headphones 700, o si prefieres un modelo "in-ear", los 1More Dual Driver BT ANC.
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
